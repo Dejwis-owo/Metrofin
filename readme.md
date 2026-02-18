@@ -1,5 +1,5 @@
 # Metrofin
-<img src="svg.svg"
+<img src="svg.svg"/>
 
 # TO DO LIST:
 - UI
